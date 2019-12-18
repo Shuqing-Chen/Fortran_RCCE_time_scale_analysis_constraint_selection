@@ -9,3 +9,4 @@ F. Hadi, V. Yousefian, M.R.H. Sheikhi and H. Metghalchi, "Time Scale Analysis fo
 Rate-Controlled Constrained-Equilibrium Constraint Selection," Proceeding of the 10th U.S.
 National Combustion Meeting of the Combustion Institute, pp. 1=6, College Park, Maryland, 
 April 23-26, 2017.
+Usage: Please contact fpmhadi@gmail.com
