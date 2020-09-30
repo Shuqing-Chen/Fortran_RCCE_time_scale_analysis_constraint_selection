@@ -2,7 +2,6 @@ Author: Fatemeh Hadi
 Date: 2017/02
 Purpose: This code identifies a set of equilibrated reactions, then obtains a set of RCCE
 constraints based on the identity of equilibrated reactions.
-External libraries used: ReportLab
 Compiler: Fortran
 Reference:
 F. Hadi, V. Yousefian, M.R.H. Sheikhi and H. Metghalchi, "Time Scale Analysis for 
